@@ -145,3 +145,4 @@ SELECT * from users WHERE YEAR(created_at) = 2020;
 SElECT name, surname from users WHERE surname like 'A%' and password="hola123";
 
 # Vamos con todo
+# A huevo
